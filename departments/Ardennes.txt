@@ -2,4 +2,5 @@ code_departement: 8
 nom_departement: Ardennes
 code_region: 44
 nom_region: Grand Est
+population : 122333
 
