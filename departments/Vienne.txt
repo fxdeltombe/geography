@@ -1,0 +1,5 @@
+code_departement: 86
+nom_departement: Vienne
+code_region: 75
+nom_region: Nouvelle-Aquitaine
+

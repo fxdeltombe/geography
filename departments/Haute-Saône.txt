@@ -1,0 +1,5 @@
+code_departement: 70
+nom_departement: Haute-Saône
+code_region: 27
+nom_region: Bourgogne-Franche-Comté
+

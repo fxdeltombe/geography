@@ -1,0 +1,5 @@
+code_departement: 47
+nom_departement: Lot-et-Garonne
+code_region: 75
+nom_region: Nouvelle-Aquitaine
+

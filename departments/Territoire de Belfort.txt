@@ -1,0 +1,5 @@
+code_departement: 90
+nom_departement: Territoire de Belfort
+code_region: 27
+nom_region: Bourgogne-Franche-Comté
+

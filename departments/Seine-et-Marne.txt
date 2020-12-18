@@ -1,0 +1,5 @@
+code_departement: 77
+nom_departement: Seine-et-Marne
+code_region: 11
+nom_region: Île-de-France
+

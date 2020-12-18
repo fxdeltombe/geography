@@ -1,0 +1,5 @@
+code_departement: 12
+nom_departement: Aveyron
+code_region: 76
+nom_region: Occitanie
+

@@ -1,0 +1,5 @@
+code_departement: 2
+nom_departement: Aisne
+code_region: 32
+nom_region: Hauts-de-France
+

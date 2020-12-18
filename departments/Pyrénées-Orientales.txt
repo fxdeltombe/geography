@@ -1,0 +1,5 @@
+code_departement: 66
+nom_departement: Pyrénées-Orientales
+code_region: 76
+nom_region: Occitanie
+

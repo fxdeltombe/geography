@@ -1,0 +1,5 @@
+code_departement: 89
+nom_departement: Yonne
+code_region: 27
+nom_region: Bourgogne-Franche-Comté
+

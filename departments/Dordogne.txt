@@ -1,0 +1,5 @@
+code_departement: 24
+nom_departement: Dordogne
+code_region: 75
+nom_region: Nouvelle-Aquitaine
+

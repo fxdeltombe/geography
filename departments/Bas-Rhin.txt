@@ -1,0 +1,5 @@
+code_departement: 67
+nom_departement: Bas-Rhin
+code_region: 44
+nom_region: Grand Est
+

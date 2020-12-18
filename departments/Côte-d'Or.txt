@@ -1,0 +1,5 @@
+code_departement: 21
+nom_departement: Côte-d'Or
+code_region: 27
+nom_region: Bourgogne-Franche-Comté
+

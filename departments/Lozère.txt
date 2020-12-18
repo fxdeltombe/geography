@@ -1,0 +1,5 @@
+code_departement: 48
+nom_departement: Lozère
+code_region: 76
+nom_region: Occitanie
+

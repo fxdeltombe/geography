@@ -1,0 +1,5 @@
+code_departement: 40
+nom_departement: Landes
+code_region: 75
+nom_region: Nouvelle-Aquitaine
+

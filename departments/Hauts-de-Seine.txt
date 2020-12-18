@@ -1,0 +1,5 @@
+code_departement: 92
+nom_departement: Hauts-de-Seine
+code_region: 11
+nom_region: Île-de-France
+

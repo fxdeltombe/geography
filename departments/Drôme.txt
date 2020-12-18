@@ -1,0 +1,5 @@
+code_departement: 26
+nom_departement: Drôme
+code_region: 84
+nom_region: Auvergne-Rhône-Alpes
+

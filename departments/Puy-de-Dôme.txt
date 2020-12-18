@@ -1,0 +1,5 @@
+code_departement: 63
+nom_departement: Puy-de-Dôme
+code_region: 84
+nom_region: Auvergne-Rhône-Alpes
+

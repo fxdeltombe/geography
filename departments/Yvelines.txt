@@ -1,0 +1,5 @@
+code_departement: 78
+nom_departement: Yvelines
+code_region: 11
+nom_region: Île-de-France
+

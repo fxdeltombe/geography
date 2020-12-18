@@ -1,0 +1,5 @@
+code_departement: 76
+nom_departement: Seine-Maritime
+code_region: 28
+nom_region: Normandie
+

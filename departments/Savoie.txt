@@ -1,0 +1,5 @@
+code_departement: 73
+nom_departement: Savoie
+code_region: 84
+nom_region: Auvergne-Rhône-Alpes
+

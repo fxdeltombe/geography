@@ -1,0 +1,5 @@
+code_departement: 50
+nom_departement: Manche
+code_region: 28
+nom_region: Normandie
+

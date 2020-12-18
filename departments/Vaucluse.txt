@@ -1,0 +1,5 @@
+code_departement: 84
+nom_departement: Vaucluse
+code_region: 93
+nom_region: Provence-Alpes-Côte d'Azur
+

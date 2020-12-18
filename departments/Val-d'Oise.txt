@@ -1,0 +1,5 @@
+code_departement: 95
+nom_departement: Val-d'Oise
+code_region: 11
+nom_region: Île-de-France
+

@@ -1,0 +1,5 @@
+code_departement: 10
+nom_departement: Aube
+code_region: 44
+nom_region: Grand Est
+

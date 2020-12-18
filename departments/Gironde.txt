@@ -1,0 +1,5 @@
+code_departement: 33
+nom_departement: Gironde
+code_region: 75
+nom_region: Nouvelle-Aquitaine
+

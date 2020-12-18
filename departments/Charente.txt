@@ -1,0 +1,5 @@
+code_departement: 16
+nom_departement: Charente
+code_region: 75
+nom_region: Nouvelle-Aquitaine
+

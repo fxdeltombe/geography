@@ -1,0 +1,5 @@
+code_departement: 72
+nom_departement: Sarthe
+code_region: 52
+nom_region: Pays de la Loire
+

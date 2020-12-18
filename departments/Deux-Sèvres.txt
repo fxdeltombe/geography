@@ -1,0 +1,5 @@
+code_departement: 79
+nom_departement: Deux-Sèvres
+code_region: 75
+nom_region: Nouvelle-Aquitaine
+

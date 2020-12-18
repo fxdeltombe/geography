@@ -1,0 +1,5 @@
+code_departement: 30
+nom_departement: Gard
+code_region: 76
+nom_region: Occitanie
+

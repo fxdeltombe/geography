@@ -1,0 +1,5 @@
+code_departement: 75
+nom_departement: Paris
+code_region: 11
+nom_region: Île-de-France
+

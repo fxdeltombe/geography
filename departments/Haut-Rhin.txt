@@ -1,0 +1,5 @@
+code_departement: 68
+nom_departement: Haut-Rhin
+code_region: 44
+nom_region: Grand Est
+

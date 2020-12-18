@@ -1,0 +1,5 @@
+code_departement: 6
+nom_departement: Alpes-Maritimes
+code_region: 93
+nom_region: Provence-Alpes-Côte d'Azur
+

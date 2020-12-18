@@ -1,0 +1,5 @@
+code_departement: 71
+nom_departement: Saône-et-Loire
+code_region: 27
+nom_region: Bourgogne-Franche-Comté
+

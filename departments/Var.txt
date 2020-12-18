@@ -1,0 +1,5 @@
+code_departement: 83
+nom_departement: Var
+code_region: 93
+nom_region: Provence-Alpes-Côte d'Azur
+

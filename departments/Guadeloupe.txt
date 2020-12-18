@@ -1,0 +1,5 @@
+code_departement: 971
+nom_departement: Guadeloupe
+code_region: 1
+nom_region: Guadeloupe
+

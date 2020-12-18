@@ -1,0 +1,5 @@
+code_departement: 28
+nom_departement: Eure-et-Loir
+code_region: 24
+nom_region: Centre-Val de Loire
+

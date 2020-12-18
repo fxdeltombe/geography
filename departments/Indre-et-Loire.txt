@@ -1,0 +1,5 @@
+code_departement: 37
+nom_departement: Indre-et-Loire
+code_region: 24
+nom_region: Centre-Val de Loire
+

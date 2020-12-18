@@ -1,0 +1,5 @@
+code_departement: 29
+nom_departement: Finistère
+code_region: 53
+nom_region: Bretagne
+

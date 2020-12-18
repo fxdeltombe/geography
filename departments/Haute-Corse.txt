@@ -1,0 +1,5 @@
+code_departement: 2B
+nom_departement: Haute-Corse
+code_region: 94
+nom_region: Corse
+

@@ -1,0 +1,5 @@
+code_departement: 19
+nom_departement: Corrèze
+code_region: 75
+nom_region: Nouvelle-Aquitaine
+

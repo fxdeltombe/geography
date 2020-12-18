@@ -1,0 +1,5 @@
+code_departement: 973
+nom_departement: Guyane
+code_region: 3
+nom_region: Guyane
+

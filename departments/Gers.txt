@@ -1,0 +1,5 @@
+code_departement: 32
+nom_departement: Gers
+code_region: 76
+nom_region: Occitanie
+

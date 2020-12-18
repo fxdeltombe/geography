@@ -1,0 +1,5 @@
+code_departement: 4
+nom_departement: Alpes-de-Haute-Provence
+code_region: 93
+nom_region: Provence-Alpes-Côte d'Azur
+

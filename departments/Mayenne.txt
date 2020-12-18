@@ -1,0 +1,5 @@
+code_departement: 53
+nom_departement: Mayenne
+code_region: 52
+nom_region: Pays de la Loire
+

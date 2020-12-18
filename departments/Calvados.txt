@@ -1,0 +1,5 @@
+code_departement: 14
+nom_departement: Calvados
+code_region: 28
+nom_region: Normandie
+

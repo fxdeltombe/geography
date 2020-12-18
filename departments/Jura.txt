@@ -1,0 +1,5 @@
+code_departement: 39
+nom_departement: Jura
+code_region: 27
+nom_region: Bourgogne-Franche-Comté
+

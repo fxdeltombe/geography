@@ -1,0 +1,5 @@
+code_departement: 64
+nom_departement: Pyrénées-Atlantiques
+code_region: 75
+nom_region: Nouvelle-Aquitaine
+

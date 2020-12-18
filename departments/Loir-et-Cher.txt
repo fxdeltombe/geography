@@ -1,0 +1,5 @@
+code_departement: 41
+nom_departement: Loir-et-Cher
+code_region: 24
+nom_region: Centre-Val de Loire
+

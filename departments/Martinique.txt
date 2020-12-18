@@ -1,0 +1,5 @@
+code_departement: 972
+nom_departement: Martinique
+code_region: 2
+nom_region: Martinique
+

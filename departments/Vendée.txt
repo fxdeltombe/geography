@@ -1,0 +1,5 @@
+code_departement: 85
+nom_departement: Vendée
+code_region: 52
+nom_region: Pays de la Loire
+

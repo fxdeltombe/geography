@@ -1,0 +1,5 @@
+code_departement: 22
+nom_departement: Côtes-d'Armor
+code_region: 53
+nom_region: Bretagne
+

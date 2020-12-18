@@ -1,0 +1,5 @@
+code_departement: 45
+nom_departement: Loiret
+code_region: 24
+nom_region: Centre-Val de Loire
+

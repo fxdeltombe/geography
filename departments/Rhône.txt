@@ -1,0 +1,5 @@
+code_departement: 69
+nom_departement: Rhône
+code_region: 84
+nom_region: Auvergne-Rhône-Alpes
+

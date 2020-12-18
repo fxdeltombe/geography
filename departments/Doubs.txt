@@ -1,0 +1,5 @@
+code_departement: 25
+nom_departement: Doubs
+code_region: 27
+nom_region: Bourgogne-Franche-Comté
+

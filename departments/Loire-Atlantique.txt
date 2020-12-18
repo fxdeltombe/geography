@@ -1,0 +1,5 @@
+code_departement: 44
+nom_departement: Loire-Atlantique
+code_region: 52
+nom_region: Pays de la Loire
+

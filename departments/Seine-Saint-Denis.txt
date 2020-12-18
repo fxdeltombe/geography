@@ -1,0 +1,5 @@
+code_departement: 93
+nom_departement: Seine-Saint-Denis
+code_region: 11
+nom_region: Île-de-France
+

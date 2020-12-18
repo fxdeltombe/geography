@@ -1,0 +1,5 @@
+code_departement: 80
+nom_departement: Somme
+code_region: 32
+nom_region: Hauts-de-France
+

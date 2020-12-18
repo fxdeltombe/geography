@@ -1,0 +1,5 @@
+code_departement: 7
+nom_departement: Ardèche
+code_region: 84
+nom_region: Auvergne-Rhône-Alpes
+

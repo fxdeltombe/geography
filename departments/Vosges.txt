@@ -1,0 +1,5 @@
+code_departement: 88
+nom_departement: Vosges
+code_region: 44
+nom_region: Grand Est
+

@@ -1,0 +1,5 @@
+code_departement: 1
+nom_departement: Ain
+code_region: 84
+nom_region: Auvergne-Rhône-Alpes
+

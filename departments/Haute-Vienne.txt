@@ -1,0 +1,5 @@
+code_departement: 87
+nom_departement: Haute-Vienne
+code_region: 75
+nom_region: Nouvelle-Aquitaine
+

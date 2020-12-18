@@ -1,0 +1,5 @@
+code_departement: 13
+nom_departement: Bouches-du-Rhône
+code_region: 93
+nom_region: Provence-Alpes-Côte d'Azur
+

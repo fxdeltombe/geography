@@ -1,0 +1,5 @@
+code_departement: 23
+nom_departement: Creuse
+code_region: 75
+nom_region: Nouvelle-Aquitaine
+
